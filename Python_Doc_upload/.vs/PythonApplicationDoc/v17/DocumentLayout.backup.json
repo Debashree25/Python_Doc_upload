@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test folder\\PythonApplicationDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B3B4E8-2795-4D65-8FB1-3EFBFFDEC8C2}|PythonApplicationDoc.pyproj|D:\\Test folder\\PythonApplicationDoc\\doc_api.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97B3B4E8-2795-4D65-8FB1-3EFBFFDEC8C2}|PythonApplicationDoc.pyproj|solutionrelative:doc_api.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B3B4E8-2795-4D65-8FB1-3EFBFFDEC8C2}|PythonApplicationDoc.pyproj|D:\\Test folder\\PythonApplicationDoc\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97B3B4E8-2795-4D65-8FB1-3EFBFFDEC8C2}|PythonApplicationDoc.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\Test folder\\PythonApplicationDoc\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "D:\\Test folder\\PythonApplicationDoc\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-08T06:07:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doc_api.py",
+              "DocumentMoniker": "D:\\Test folder\\PythonApplicationDoc\\doc_api.py",
+              "RelativeDocumentMoniker": "doc_api.py",
+              "ToolTip": "D:\\Test folder\\PythonApplicationDoc\\doc_api.py*",
+              "RelativeToolTip": "doc_api.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-08T04:29:56.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
